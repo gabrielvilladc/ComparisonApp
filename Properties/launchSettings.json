@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ComparisonApp": {
+      "commandName": "Project",
+      "commandLineArgs": "13 2021-12-31 CBIS BC-IND2"
+    }
+  }
+}
